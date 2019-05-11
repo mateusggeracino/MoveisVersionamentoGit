@@ -1,0 +1,24 @@
+body{
+    font-family: arial, sans-serif;
+    letter-spacing: 2px;
+}
+
+.container{
+    width: 50%;
+    margin: 10% auto;  
+}
+            
+.container h1{
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+}
+
+.container ul li{
+    padding: 10px;
+}
+
+.img-logo{
+    display: block;
+    width: 50%;
+    margin: 10 auto;
+}
